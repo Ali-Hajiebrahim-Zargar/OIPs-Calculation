@@ -1,6 +1,6 @@
 # OIPs Calculation
 
-This MATLAB code is designed for calculating OIPs (Optical, Ionization, and Piezoelectric Constants) in ETBM (Empirical Tight-Binding Method) with a focus on zinc-blend crystal structures.
+This MATLAB code is designed for calculating OIPs (Orbital Interaction Parameters) in ETBM (Empirical Tight-Binding Method) with a focus on zinc-blend crystal structures.
 
 ## Usage
 
