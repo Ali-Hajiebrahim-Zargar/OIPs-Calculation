@@ -17,10 +17,3 @@ haa=[Esa+bandlineup_new         0                              0                
       Ha=[haa     haso
           haso'   conj(haa)];
 end
-
-
-
-
-
-
-
