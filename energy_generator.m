@@ -20,5 +20,3 @@ Deltaa=x*y*ct(satr1,20)+ x*(1-y)*ct(satr2,20)+ (1-x)*y*ct(satr3,20)+ (1-x)*(1-y)
 Deltac=x*y*ct(satr1,21)+ x*(1-y)*ct(satr2,21)+ (1-x)*y*ct(satr3,21)+ (1-x)*(1-y)*ct(satr4,21);
 bandlineup_new=x*y*bandlineup(satr1,1)+ x*(1-y)*bandlineup(satr2,1)+ (1-x)*y*bandlineup(satr3,1)+ (1-x)*(1-y)*bandlineup(satr4,1);
 end
-
-
