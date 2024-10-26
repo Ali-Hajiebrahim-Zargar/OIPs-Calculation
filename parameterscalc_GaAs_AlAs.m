@@ -99,22 +99,4 @@ Eg2_out=abs(1.71-Eg2);
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 FitnessFunction3=(100*Eg1_out)+(100*Eg2_out)+sum_penalty;
-
-
 fitnessfunction=FitnessFunction_GaAs+FitnessFunction_AlAs+FitnessFunction3;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
